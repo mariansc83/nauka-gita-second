@@ -3,8 +3,8 @@
         "htmlvalidate:recommended"
     ],
     "rules": {
-        "close-order": "error"
-      "void": [
+        "close-order": "error",
+        "void": [
             "warn",
             {
                 "style": "omit"
