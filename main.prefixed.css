@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: wheat;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+    margin: 50px auto;
+}
+
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    display: -ms-flexbox;
+    display: flex;
+    text-align: center;
+    -ms-flex-align: center;
+        align-items: center;
+    -ms-flex-direction: column;
+        flex-direction: column;
+}
+
+h1 {
+    margin-bottom: 30px;
+}

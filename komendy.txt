@@ -1,0 +1,2 @@
+autoprefixer-cli -o main.prefixed.css nazwapliku.css
+html-validate nazwapliku.html
