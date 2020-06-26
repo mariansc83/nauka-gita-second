@@ -11,5 +11,13 @@
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.26.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marian-Rozycki/nauka-gita-second.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Marian-Rozycki/nauka-gita-second/issues"
+  },
+  "homepage": "https://github.com/Marian-Rozycki/nauka-gita-second#readme"
 }
